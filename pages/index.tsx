@@ -3,7 +3,7 @@ import React from 'react'
 const Home = () => {
     return (
         <div>
-            MKS Challenge - 3001
+            <p>MKS Challenge - 3001</p>
         </div>
     )
 }
